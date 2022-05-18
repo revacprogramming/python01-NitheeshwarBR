@@ -1,6 +1,8 @@
-
+# input? 1 2
+# 1+2 is 3
 def add(a, b):
-    pass  # ...
+    sum=a+b
+    return sum
 
 
 def output(a, b, sum):
