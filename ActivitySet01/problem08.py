@@ -18,4 +18,4 @@ for line in file:
         num=words[1]
         add=add+float(num)
 average=add/count
-print("Average spam confidence:",average)
+print("Average spam confidence:\n",average)
